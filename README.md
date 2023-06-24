@@ -1,4 +1,6 @@
-# RedisPractice
+## RedisPractice
+
+# 간단한 저장, 조회 API 구현
 
 [자료 출처1] (https://it-recording.tistory.com/118)
 
